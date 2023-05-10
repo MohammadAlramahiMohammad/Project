@@ -1,0 +1,8 @@
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\bin\Debug\Library Manegment System Project.exe.config
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\bin\Debug\Library Manegment System Project.exe
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\bin\Debug\Library Manegment System Project.pdb
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\obj\Debug\Library Manegment System Project.csproj.AssemblyReference.cache
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\obj\Debug\Library Manegment System Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\obj\Debug\Library Manegment System Project.csproj.CoreCompileInputs.cache
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\obj\Debug\Library Manegment System Project.exe
+C:\Users\Tykee\Desktop\Library manegment system\Library Manegment System Project\Library Manegment System Project\obj\Debug\Library Manegment System Project.pdb
