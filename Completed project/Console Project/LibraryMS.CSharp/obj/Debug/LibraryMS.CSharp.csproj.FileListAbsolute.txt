@@ -1,0 +1,33 @@
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.exe.config
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.exe
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.pdb
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.BLL.dll
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.BLL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.CopyComplete
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.exe
+C:\Users\ideapad\source\repos\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.exe.config
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.exe
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.CSharp.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.BLL.dll
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.DAL.dll
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.Entity.dll
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.Exception.dll
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.BLL.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.AssemblyReference.cache
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.csproj.CopyComplete
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.exe
+C:\Users\Tykee\Desktop\Library-Management-System-Console-master\Console Project\LibraryMS.CSharp\obj\Debug\LibraryMS.CSharp.pdb
