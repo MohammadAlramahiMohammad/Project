@@ -138,18 +138,18 @@ namespace LoginSystem
 
 
             // Check if the username already exists in the array
-            //if (Array.Exists(users, u => u != null && u.Username == username))
-            //{
-            //  Console.WriteLine("Username already taken. Press any key to try again...");
-            //Console.ReadKey();
-            //return;
-            // }
+            if (Array.Exists(users, u => u != null && u.Username == username))
+            {
+              Console.WriteLine("Username already taken. Press any key to try again...");
+            Console.ReadKey();
+            return;
+             }
 
             // If the array is full, resize it to double its current capacity
-            //if (userCount == users.Length)
-            //{
-            //   Array.Resize(ref users, users.Length * 2);
-            //}
+            if (userCount == users.Length)
+            {
+               Array.Resize(ref users, users.Length * 2);
+            }
 
             // Add the new user object to the array and update the user count
             users[userCount] = newUser;
@@ -249,7 +249,9 @@ namespace LoginSystem
                 {
                     foreach (User user in users)
                     {
-                        string line = string.Join(",", user.Username, user.Password, user.UserType);
+                        if (user == null) continue;
+                        var userType = user.UserType;
+                        string line = string.Join(",", user.Username, user.Password, userType);
                         writer.WriteLine(line);
                         counter++;
                     }
