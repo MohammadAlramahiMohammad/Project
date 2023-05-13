@@ -1,0 +1,8 @@
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\bin\Debug\ramahibot.exe.config
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\bin\Debug\ramahibot.exe
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\bin\Debug\ramahibot.pdb
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\obj\Debug\library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\obj\Debug\ramahibot.exe
+C:\Users\ibrahim shalakhti\source\repos\Project1\ramahibot\ramahibot\obj\Debug\ramahibot.pdb
